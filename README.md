@@ -66,7 +66,7 @@ If you do not have Ollama installed:
 
 ---
 
-## Plain English Explanation of the 5 Attacks
+## Explanation of the 5 Attacks
 
 1. **Naive Attack**
    - **How it works:** The attacker simply appends the malicious instructions and the target fake output directly after the original input data.
@@ -90,7 +90,7 @@ If you do not have Ollama installed:
 
 ---
 
-## Plain English Explanation of Defenses and Their Weaknesses
+## Explanation of Defenses and Their Weaknesses
 
 ### Prevention-Based Defenses
 
